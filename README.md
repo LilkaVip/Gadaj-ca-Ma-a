@@ -1,2 +1,2 @@
-# Gadaj-ca-Ma-a
+# Gadająca mała
 Malutka GPTCHATÓWA
